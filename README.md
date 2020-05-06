@@ -1,2 +1,2 @@
-# AI-chatbot-for-health-maintenance
-Chatbot usability is high due to their simple user interfaces, which are now moving back towards the early text-based style, although artificial intelligence (AI) and natural language processing make contemporary chatbot user interfaces considerably smarter.Poor nutrition can lead to reduced immunity, increased susceptibility to disease, impaired physical and mental development, and reduced productivity.Weight loss is difficult and maintaining weight loss is a greater challenge. Effective communication is hindered by conflicting information and the sensitivity of the subject of obesity. A self-help motivational tool for weight loss maintenance is a good option. Chatbots may have the potential to contribute to obesity prevention and management. Chatbot is valuable as it is evidence based and has the potential to contribute to the area of health management. 
+# AI-chatbot-using Python
+
